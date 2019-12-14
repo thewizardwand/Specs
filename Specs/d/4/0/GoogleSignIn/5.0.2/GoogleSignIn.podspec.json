@@ -1,9 +1,9 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "AppAuth": "~> 1.2",
-    "GTMAppAuth": "~> 1.0",
-    "GTMSessionFetcher/Core": "~> 1.1"
+    "AppAuth": "~> 1.3",
+    "GTMAppAuth": "~> 1.0.1",
+    "GTMSessionFetcher/Core": "~> 1.3"
   },
   "description": "The Google Sign-In SDK allows users to sign in with their Google account from third-party apps.",
   "frameworks": [
